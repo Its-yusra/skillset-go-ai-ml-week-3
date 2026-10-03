@@ -1,0 +1,8 @@
+test_empty_file (test_app.TestCSVValidator) ... ok
+test_invalid_file_path (test_app.TestCSVValidator) ... ok
+test_valid_sample_csv (test_app.TestCSVValidator) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.185s
+
+OK
